@@ -172,7 +172,7 @@ function myTimer()
 
     if(a%2 == 1)
     {
-        hour32.src="./green.jpg";
+        hour32.src="./green.png";
         d = a - 1;
         a = d/2
     }

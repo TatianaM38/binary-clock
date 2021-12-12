@@ -22,8 +22,8 @@ body
 .y
 {
     font-family: "Georgia", serif;
+    font-size: 50 px;
     color:white;
-    font-size: 35 px;
     display: flex;
     justify-content: center;
     align-items: center;
